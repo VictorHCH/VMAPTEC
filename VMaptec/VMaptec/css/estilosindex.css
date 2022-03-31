@@ -148,3 +148,17 @@ h1{
 p, ol, li{
 	text-align: justify;
 }
+
+.contenido1{
+	display: block;
+	justify-content: center;
+	background: #FFFDA2;
+	margin: 0 auto;
+	width: 1000px;
+	height: 1300px;
+}
+
+.aux{
+	border: 2px solid #000;
+	border-radius: 20px;
+}
