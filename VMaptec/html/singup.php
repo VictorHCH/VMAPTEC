@@ -29,7 +29,7 @@
 
             <div class="input-contenedor">
                 <i class="fa-solid fa-envelope icon"></i>
-                <input class="input" type="email" name= "correo" placeholder="Correo Electronico" > 
+                <input class="input" type="text" name= "correo" placeholder="Correo Electronico" > 
             </div>
 
             <div class="input-contenedor">

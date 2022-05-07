@@ -2,8 +2,8 @@
 <?php
      session_start();                                                                               //Iniciamos la sesion
 
-     if(isset($_SESSION['usuario'])){
-        header("location: ../html/index.html");                                                  //Si existe una sesion no sera necesario volver a logearnos, este codigo nos mandara a la pagina principal
+     if(!isset($_SESSION['usuario'])){
+        header("location: ../html/login.php");                                                  //Si existe una sesion no sera necesario volver a logearnos, este codigo nos mandara a la pagina principal
      }
 ?>
 
@@ -50,9 +50,9 @@
                     <h1>VMapTec</h1>
                 </div>
                 <nav class="menu">
-                    <a href="#">Recorrido</a>
+                    <a href="index.html">Recorrido</a>
                     <a href="#">Aulas</a>
-                    <a href="../html/tramites.html">Tramites</a>
+                    <a href="#">Tramites</a>
                     <a href="#">Blog</a>
                     <a href="#">Sing Up</a>
                 </nav>
