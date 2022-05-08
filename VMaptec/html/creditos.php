@@ -10,32 +10,17 @@
 
 <body>
 
-    <header id="main-header">
-
-        <a id="logo-header" href="#">
-      <span class="site-name">VMapTec</span>
-            <span class="site-desc">Creditos</span>
-        </a>
-        <!-- / #logo-header -->
-
-        <nav>
-            <ul>
-                <li><a href="../html/index.php">Recorrido</a></li>
-                <li><a href="../html/tramites.php">Tramites</a></li>
-                <li><a href="#">Coordinadores</a></li>
-
-            </ul>
-        </nav>
-        <!-- / nav -->
-
-    </header>
-    <!-- / #main-header -->
+   
 
 
     <section id="main-content">
 
         <article>
             <header>
+            <?php
+        require "../html/header.php";
+    ?>
+    <div>
                 <h1>Guía de la Descripción de la Actividades Complementarias </h1>
                 <br>
 
