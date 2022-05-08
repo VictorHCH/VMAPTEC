@@ -7,9 +7,8 @@
     <meta name="description" content="" />
     <title>Tramites</title>
 
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-    <link rel="stylesheet" href="../css/estilosheader.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
     <style>
         .bd-placeholder-img {
@@ -31,15 +30,24 @@
 <body>
     <?php   
             require "../html/header.php";
-        ?>
-    <section class="py-5 text-center container">
+    ?>
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron">
+        <div class="container">
+            <h1 class="display-3">Selecciona el Tramite a Realizar</h1>
+            <p>This is a template for a simple marketing or informational website. It includes a large callout
+                called a jumbotron and three supporting pieces of content. Use it as a starting point to create
+                something more unique.</p>
+        </div>
+    </div>
+    <!-- <section class="py-5 text-center container">
         <div class="row py-lg-5">
             <div class="col-lg-6 col-md-8 mx-auto">
                 <br>
                 <h1 class="fw-light">Selecciona el Tramite a Realizar</h1>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <div class="album py-5 bg-light">
         <div class="container">
@@ -114,6 +122,8 @@
                     </div>
                 </div>
             </div>
+
+            <!-- Comentarios -->
             <div id="disqus_thread"></div>
             <script>
                 (function () {
