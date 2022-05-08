@@ -13,10 +13,9 @@
     <header class="header">
         <div class="container">
             <div class="logo">
-                <h1>VMapTec</h1>
+                <a href="../html/index.php"><h1>VMapTec</h1></a>
             </div>
             <nav class="menu">
-                <a href="#">Recorrido</a>
                 <a href="#">Creditos</a>
                 <a href="../html/tramites.php">Tramites</a>
                 <a href="#">Coordinadores</a>
