@@ -20,10 +20,10 @@
             <span class="navbar-toggler-icon"></span>
         </button>
 
-        <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+        <div class="collapse navbar-collapse" >
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
-                    <a class="nav-link" href="../html/index.php"><h3>VMapTec</h3> <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="../html/index.php"><h2>VMapTec</h2></a>
                 </li>
             </ul>
             <ul class="navbar-nav my-2 my-lg-0">

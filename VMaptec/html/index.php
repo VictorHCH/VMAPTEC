@@ -16,17 +16,24 @@
     <?php   
             require "../html/header.php";
     ?>
-    <div class="jumbotron">
-        <div class="container">
-            <h1 class="display-3">Bienvenidos al Recorrido</h1>
-            <p>This is a template for a simple marketing or informational website. It includes a large callout
-                called a jumbotron and three supporting pieces of content. Use it as a starting point to create
-                something more unique.</p>
+    <br><br>
+    <div class="container">
+        <div class="jumbotron">
+            <div class="container">
+                <h1 class="display-3">Bienvenidos al Recorrido</h1>
+                <p>This is a template for a simple marketing or informational website. It includes a large callout
+                    called a jumbotron and three supporting pieces of content. Use it as a starting point to create
+                    something more unique.</p>
+            </div>
+        </div>
+        <div>
+            <iframe src="http://www.itparral.edu.mx/images/RecorridosVirtuales/Pano2VR/output/index.html" width="100%"
+                height="500px"></iframe>
         </div>
     </div>
-    <div>
-        <iframe src="http://www.itparral.edu.mx/images/RecorridosVirtuales/Pano2VR/output/index.html" width="100%" height="500px"></iframe>
-    </div>
+    <?php
+        require "../html/footer.php";
+    ?>
 </body>
 
 </html>

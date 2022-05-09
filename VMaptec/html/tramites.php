@@ -32,14 +32,7 @@
             require "../html/header.php";
     ?>
     <!-- Main jumbotron for a primary marketing message or call to action -->
-    <div class="jumbotron">
-        <div class="container">
-            <h1 class="display-3">Selecciona el Tramite a Realizar</h1>
-            <p>This is a template for a simple marketing or informational website. It includes a large callout
-                called a jumbotron and three supporting pieces of content. Use it as a starting point to create
-                something more unique.</p>
-        </div>
-    </div>
+
     <!-- <section class="py-5 text-center container">
         <div class="row py-lg-5">
             <div class="col-lg-6 col-md-8 mx-auto">
@@ -51,6 +44,14 @@
 
     <div class="album py-5 bg-light">
         <div class="container">
+            <div class="jumbotron">
+                <div class="container">
+                    <h1 class="display-3">Selecciona el Tramite a Realizar</h1>
+                    <p>This is a template for a simple marketing or informational website. It includes a large callout
+                        called a jumbotron and three supporting pieces of content. Use it as a starting point to create
+                        something more unique.</p>
+                </div>
+            </div>
             <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
                 <div class="col">
                     <div class="card shadow-sm">
@@ -122,8 +123,7 @@
                     </div>
                 </div>
             </div>
-
-            <!-- Comentarios -->
+            <br>
             <div id="disqus_thread"></div>
             <script>
                 (function () {
@@ -134,6 +134,11 @@
                     (d.head || d.body).appendChild(s);
                 })();
             </script>
+        </div>
+    </div>
+    <?php
+        require "../html/footer.php";
+    ?>
 </body>
 
 </html>
