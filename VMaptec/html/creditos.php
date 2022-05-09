@@ -28,6 +28,7 @@
             <div style="text-align: center;">
                 <h1>“Hoja membretada oficial”</h1>
                 <img src="../imagenes/Hoja_membretada.png" width="60%">
+                <br><br>
                 <h2 id="fundamento">Fundamento de la actividad </h2>
                 <br>
                 <p id="espacio"></p>

@@ -28,7 +28,7 @@
         </div>
         <div>
             <iframe src="http://www.itparral.edu.mx/images/RecorridosVirtuales/Pano2VR/output/index.html" width="100%"
-                height="500px"></iframe>
+                height="650px"></iframe>
         </div>
     </div>
     <?php
