@@ -14,7 +14,7 @@
 <body>
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <?php   
-            require "../html/header.php";
+        require "../html/header.php";
     ?>
     <br><br>
     <div class="container">
@@ -25,10 +25,10 @@
                     called a jumbotron and three supporting pieces of content. Use it as a starting point to create
                     something more unique.</p>
             </div>
-        </div>
-        <div>
-            <iframe src="http://www.itparral.edu.mx/images/RecorridosVirtuales/Pano2VR/output/index.html" width="100%"
-                height="650px"></iframe>
+            <div>
+                <iframe src="http://www.itparral.edu.mx/images/RecorridosVirtuales/Pano2VR/output/index.html"
+                    width="100%" height="650px"></iframe>
+            </div>
         </div>
     </div>
     <?php
