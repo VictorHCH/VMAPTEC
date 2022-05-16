@@ -28,13 +28,13 @@
             </ul>
             <ul class="navbar-nav my-2 my-lg-0">
                 <li class="nav-item active">
-                    <a class="nav-link" href="../html/creditos.php">Creditos</a>
+                    <a class="nav-link" href="../html/creditos.php">¿Qué es un Crédito?</a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="../html/tramites.php">Tramites</a>
+                    <a class="nav-link" href="../html/tramites.php">¿Qué es un Trámite?</a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">Coordinadores</a>
+                    <a class="nav-link" href="#">¿Qué hay en los edificios del Tecnológico?</a>
                 </li>
             </ul>
         </div>

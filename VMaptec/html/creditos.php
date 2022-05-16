@@ -21,10 +21,23 @@
         <div class="jumbotron">
             <div class="container">
                 <h1 class="display-4">Guía de la Descripción de la Actividades Complementarias</h1>
-                <p>This is a template for a simple marketing or informational website. It includes a large callout
-                    called a jumbotron and three supporting pieces of content. Use it as a starting point to create
-                    something more unique.</p>
+                <h1>¿Qué son los créditos complementarios?</h1>   
+                <h3 id="exp">Actividades que realiza el alumno en beneficio de su formación integral con el objetivo de complementar sus competencias profesionales.
+                Las actividades complementarias son propuestas por los departamentos involucrados en el comité académico, quién validará y presentará como recomendación a la dirección del plantel para su autorización.</h3>
+                <h1>Características:</h1>   
+                <h3 id="exp">Las actividades complementarias tienen un valor curricular de 5 créditos, considerando que cada crédito es equivalente a 20 horas de actividad y cuyo cumplimiento debe ser dentro de los seis primeros semestres.</h3>
+                <h3 id="exp">Para cada actividad complementaria autorizada por el plantel no deberá tener más de 2 créditos. La lengua extranjera no es considerada una actividad complementaria.</h3>         
+                <br>
+                <h3 id="titulo-cre">Notas:</h1>
+                <h3 id="exp">
+                    <ul>
+                        <li>La lengua extranjera no es considerada una actividad complementaria.</li>
+                        <li>ES MUY RECOMENDABLE (NO OBLIGATORIO) QUE TERMINES TUS 5 CRÉDITOS COMPLEMENTARIOS ANTES DE TERMINAR TU 6TO SEMESTRE DE LA CARRERA, ESTO CON LA FINALIDAD DE QUE CUMPLAS CON ELLOS ANTES DE INICIAR SERVICIO SOCIAL.</li>
+                    </ul>
+                </h3>   
             </div>
+            <br>
+            <br>
             <div style="text-align: center;">
                 <h1>“Hoja membretada oficial”</h1>
                 <img src="../imagenes/Hoja_membretada.png" width="60%">
