@@ -8,7 +8,7 @@
     <title>Creditos</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
         integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-        <link rel="stylesheet" href="../css/creditos.css">
+    <link rel="stylesheet" href="../css/creditos.css">
 </head>
 
 <body>
@@ -21,20 +21,27 @@
         <div class="jumbotron">
             <div class="container">
                 <h1 class="display-4">Guía de la Descripción de la Actividades Complementarias</h1>
-                <h1>¿Qué son los créditos complementarios?</h1>   
-                <h3 id="exp">Actividades que realiza el alumno en beneficio de su formación integral con el objetivo de complementar sus competencias profesionales.
-                Las actividades complementarias son propuestas por los departamentos involucrados en el comité académico, quién validará y presentará como recomendación a la dirección del plantel para su autorización.</h3>
-                <h1>Características:</h1>   
-                <h3 id="exp">Las actividades complementarias tienen un valor curricular de 5 créditos, considerando que cada crédito es equivalente a 20 horas de actividad y cuyo cumplimiento debe ser dentro de los seis primeros semestres.</h3>
-                <h3 id="exp">Para cada actividad complementaria autorizada por el plantel no deberá tener más de 2 créditos. La lengua extranjera no es considerada una actividad complementaria.</h3>         
+                <h1>¿Qué son los créditos complementarios?</h1>
+                <h3 id="exp">Actividades que realiza el alumno en beneficio de su formación integral con el objetivo de
+                    complementar sus competencias profesionales.
+                    Las actividades complementarias son propuestas por los departamentos involucrados en el comité
+                    académico, quién validará y presentará como recomendación a la dirección del plantel para su
+                    autorización.</h3>
+                <h1>Características:</h1>
+                <h3 id="exp">Las actividades complementarias tienen un valor curricular de 5 créditos, considerando que
+                    cada crédito es equivalente a 20 horas de actividad y cuyo cumplimiento debe ser dentro de los seis
+                    primeros semestres.Para cada actividad complementaria autorizada por el plantel no deberá tener más
+                    de 2 créditos.</h3>
                 <br>
                 <h3 id="titulo-cre">Notas:</h1>
-                <h3 id="exp">
-                    <ul>
-                        <li>La lengua extranjera no es considerada una actividad complementaria.</li>
-                        <li>ES MUY RECOMENDABLE (NO OBLIGATORIO) QUE TERMINES TUS 5 CRÉDITOS COMPLEMENTARIOS ANTES DE TERMINAR TU 6TO SEMESTRE DE LA CARRERA, ESTO CON LA FINALIDAD DE QUE CUMPLAS CON ELLOS ANTES DE INICIAR SERVICIO SOCIAL.</li>
-                    </ul>
-                </h3>   
+                    <h3 id="exp">
+                        <ul>
+                            <li>La lengua extranjera no es considerada una actividad complementaria.</li>
+                            <li>ES MUY RECOMENDABLE (NO OBLIGATORIO) QUE TERMINES TUS 5 CRÉDITOS COMPLEMENTARIOS ANTES
+                                DE TERMINAR TU 6TO SEMESTRE DE LA CARRERA, ESTO CON LA FINALIDAD DE QUE CUMPLAS CON
+                                ELLOS ANTES DE INICIAR SERVICIO SOCIAL.</li>
+                        </ul>
+                    </h3>
             </div>
             <br>
             <br>
