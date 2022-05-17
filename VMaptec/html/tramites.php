@@ -38,6 +38,8 @@
                     <h1 class="display-3">Trámites Con Los Que Cuenta La Insitución</h1>
                 </div>
                 <p style="text-align: center;">Es necesario que vayas a pagar al departamento de financieros. </p>
+                <br>
+                <br>
                 <p style="text-align: center;">Debes tener a la mano, tu número de control y nombre para poder realizar los
                     trámites. </p>
                 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
