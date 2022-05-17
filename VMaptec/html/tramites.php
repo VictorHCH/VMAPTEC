@@ -30,26 +30,16 @@
     <?php   
             require "../html/header.php";
     ?>
-    <!-- Main jumbotron for a primary marketing message or call to action -->
-
-    <!-- <section class="py-5 text-center container">
-        <div class="row py-lg-5">
-            <div class="col-lg-6 col-md-8 mx-auto">
-                <br>
-                <h1 class="fw-light">Selecciona el Tramite a Realizar</h1>
-            </div>
-        </div>
-    </section> -->
 
     <div class="album py-5 bg-light">
         <div class="container">
             <div class="jumbotron">
                 <div class="container">
                     <h1 class="display-3">Trámites Con Los Que Cuenta La Insitución</h1>
-                    <p class="tramites">Es necesario que vayas a pagar al departamento de financieros. </p>
-                    <p class="tramites">Debes tener a la mano, tu número de control y nombre para poder realizar los trámites. </p>
                 </div>
-
+                <p style="text-align: center;">Es necesario que vayas a pagar al departamento de financieros. </p>
+                <p style="text-align: center;">Debes tener a la mano, tu número de control y nombre para poder realizar los
+                    trámites. </p>
                 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
                     <div class="col">
                         <div class="card shadow-sm">
@@ -95,7 +85,8 @@
 
                             <div class="card-body">
                                 <p class="card-text">Identificación institucional del(de la) alumno(a) cuando se está
-                                    inscrito en el ciclo escolar vigente. Es necesario que tengas una foto tamaño infantil.</p>
+                                    inscrito en el ciclo escolar vigente. Es necesario que tengas una foto tamaño
+                                    infantil.</p>
                                 <div class="d-flex justify-content-between align-items-center">
                                 </div>
                             </div>

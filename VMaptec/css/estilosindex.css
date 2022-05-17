@@ -145,6 +145,11 @@ h1{
 	margin-left: 50px;
 }
 
+
+p.tramite{
+	text-align: center;
+}
+
 p, ol, li{
 	text-align: justify;
 }
