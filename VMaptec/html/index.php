@@ -29,7 +29,6 @@
     <div class="container">
         <div class="jumbotron">
             <div class="container">
-            <h1><b>Instituto Tecnológico de Parral</b></h1>
                 <h1 class="display-3">¡Dale un vistazo a tu Tecnológico!</h1>
                 
             </div>

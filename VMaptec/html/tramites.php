@@ -6,10 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content="" />
     <title>Tramites</title>
-
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
         integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-
+    <link rel="stylesheet" href="../css/estilosindex.css">
     <style>
         .bd-placeholder-img {
             font-size: 1.125rem;
@@ -46,10 +45,9 @@
         <div class="container">
             <div class="jumbotron">
                 <div class="container">
-                    <h1 class="display-3">Selecciona el Tramite a Realizar</h1>
-                    <p>This is a template for a simple marketing or informational website. It includes a large callout
-                        called a jumbotron and three supporting pieces of content. Use it as a starting point to create
-                        something more unique.</p>
+                    <h1 class="display-3">Trámites Con Los Que Cuenta La Insitución</h1>
+                    <p class="tramites">Es necesario que vayas a pagar al departamento de financieros. </p>
+                    <p class="tramites">Debes tener a la mano, tu número de control y nombre para poder realizar los trámites. </p>
                 </div>
 
                 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
@@ -97,7 +95,7 @@
 
                             <div class="card-body">
                                 <p class="card-text">Identificación institucional del(de la) alumno(a) cuando se está
-                                    inscrito en el ciclo escolar vigente.</p>
+                                    inscrito en el ciclo escolar vigente. Es necesario que tengas una foto tamaño infantil.</p>
                                 <div class="d-flex justify-content-between align-items-center">
                                 </div>
                             </div>
