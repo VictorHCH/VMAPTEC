@@ -51,7 +51,7 @@
                 <br><br>
                 <h2 id="fundamento">Fundamento de la actividad </h2>
                 <br>
-                <p id="espacio"></p>
+              c
             </div>
             <h3>Tutoria:</h3>
             <p>La tutoría es un programa que permite la mejora del proceso de aprendizaje por los estudiantes,

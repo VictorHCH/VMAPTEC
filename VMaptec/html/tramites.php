@@ -39,7 +39,6 @@
                 </div>
                 <p style="text-align: center;">Es necesario que vayas a pagar al departamento de financieros. </p>
                 <br>
-                <br>
                 <p style="text-align: center;">Debes tener a la mano, tu número de control y nombre para poder realizar los
                     trámites. </p>
                 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
@@ -114,6 +113,8 @@
                         </div>
                     </div>
                 </div>
+                <br>
+                <p style="text-align: center;">Si quieres saber mas acerca del pago de los tramites <a href="pagos.php">Has Click Aqui</a>.</p>
                 <br>
                 <div id="disqus_thread"></div>
                 <script>
