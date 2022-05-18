@@ -1,0 +1,174 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica, Arial, sans-serif;
+    color: rgb(60, 59, 59);
+    background: #f2f2f2;
+    font-size: 1em;
+    line-height: 1.5em;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.3em;
+    line-height: 1.3em;
+    margin: 20px 0;
+    text-align: center;
+    font-weight: 300;
+    color: rgb(58, 55, 55);
+}
+
+h1 #titulo-cre {
+    font-size: 2.3em;
+    line-height: 1.3em;
+    margin: 20px 0;
+    text-align: right;
+    font-weight: 300;
+    color: rgb(58, 55, 55);
+}
+
+p#espacio {
+    border: solid .5px black;
+}
+
+h3 {
+    font-size: 1.1em;
+    line-height: 1.5em;
+    color: rgb(58, 55, 55);
+    font-weight: bolder;
+    font-style: italic;
+}
+
+h3#exp {
+    font-size: 1.1em;
+    line-height: 1.5em;
+    color: rgb(54, 54, 54);
+    font-style: normal;
+    font-weight: 500;
+}
+
+h4 {
+    font-size: 1em;
+    line-height: 1.5em;
+    color: rgb(58, 55, 55);
+}
+
+p {
+    margin: 0 0 .5em 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    max-height: 100%;
+}
+
+#main-header {
+    background: #333;
+    color: white;
+    height: 80px;
+}
+
+#main-header a {
+    color: white;
+}
+
+
+/*
+ * Logo
+ */
+
+#logo-header {
+    float: left;
+    padding: 15px 0 0 20px;
+    text-decoration: none;
+}
+
+#logo-header .site-name {
+    display: block;
+    font-weight: 700;
+    font-size: 1.2em;
+}
+
+#logo-header .site-desc {
+    display: block;
+    font-weight: 300;
+    font-size: 0.8em;
+    color: #999;
+}
+
+
+/*
+ * Navegación
+ */
+
+nav {
+    float: right;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    padding-right: 20px;
+}
+
+nav ul li {
+    display: inline-block;
+    line-height: 80px;
+}
+
+nav ul li a {
+    display: block;
+    padding: 0 10px;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    background: #0b76a6;
+}
+
+#main-content {
+    background: white;
+    width: 90%;
+    max-width: 800px;
+    margin: 60px auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+}
+
+#main-content header,
+#main-content .content {
+    padding: 10px;
+}
+
+#main-footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
+
+#main-footer p {
+    margin: 0;
+}
+
+#main-footer a {
+    color: white;
+}
+
+#main-header {
+    background-color: #1a2537;
+    height: 80px;
+    width: 100%;
+    /* hacemos que la cabecera ocupe el ancho completo de la página */
+    left: 0;
+    /* Posicionamos la cabecera al lado izquierdo */
+    top: 0;
+    /* Posicionamos la cabecera pegada arriba */
+    position: fixed;
+    /* Hacemos que la cabecera tenga una posición fija */
+}
