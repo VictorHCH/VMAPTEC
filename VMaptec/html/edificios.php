@@ -36,10 +36,8 @@
                         <div class="col-lg-4" style="text-align: center;">
                             <svg class="bd-placeholder-img rounded-circle" width="140" height="140"
                                 xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140"
-                                preserveAspectRatio="xMidYMid slice" focusable="false">
-                                <title>Placeholder</title>
-                                <rect width="100%" height="100%" fill="#777"></rect><text x="50%" y="50%" fill="#777"
-                                    dy=".3em">140x140</text>
+                                preserveAspectRatio="xMidYMid slice" focusable="false" img>
+                                <rect width="100%" height="100%" fill="#777" ></rect>
                             </svg>
 
                             <h2>Edificio A</h2>
@@ -50,50 +48,52 @@
                             <svg class="bd-placeholder-img rounded-circle" width="140" height="140"
                                 xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140"
                                 preserveAspectRatio="xMidYMid slice" focusable="false">
-                                <title>Placeholder</title>
-                                <rect width="100%" height="100%" fill="#777"></rect><text x="50%" y="50%" fill="#777"
-                                    dy=".3em">140x140</text>
+                                <rect width="100%" height="100%" fill="#777"></rect>
                             </svg>
                             <h2>Edificio AB</h2>
-                            <p>Aquí se encuentra el edificio Financieros, puedes realizar todos los pagos correspondientes a los <a href="tramites.php">tramites</a>.</p>
+                            <p>Aquí se encuentra el edificio Económico Administrativo. Puedes encontrar a todos los coordinadores de las diferentes carreras e ingles, División de Estudios Profesionales y la coordinación de apoyo a la titulación.</p>
+                        </div><!-- /.col-lg-4 -->
+                        <div class="col-lg-4" style="text-align: center;">
+                            <svg class="bd-placeholder-img rounded-circle" width="140" height="140"
+                                xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false">
+                                <rect width="100%" height="100%" fill="#777"></rect>
+                            </svg>
+                            <h2>Edificio U</h2>
+                            <p>Aquí se encuentra el edificio de Centro de Computo. Puedes pedir información acerca de tu correo electrónico. Este correo te permite obtener software de paga completamente gratis. Aquí se distribuye internet a todo el Tec.  </p>
+                            <br>
+                        <br>
                         </div><!-- /.col-lg-4 -->
                         <div class="col-lg-4" style="text-align: center;">
                             <svg class="bd-placeholder-img rounded-circle" width="140" height="140"
                                 xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140"
                                 preserveAspectRatio="xMidYMid slice" focusable="false">
-                                <title>Placeholder</title>
-                                <rect width="100%" height="100%" fill="#777"></rect><text x="50%" y="50%" fill="#777"
-                                    dy=".3em">140x140</text>
+                                <rect width="100%" height="100%" fill="#777">
                             </svg>
                             <h2>Edificio W</h2>
-                            <p> Aquí se encuentra la biblioteca, con su apartado para solicitud de libros al igual que su area común
-                                 en dónde puedes realizar tus tareas. Cuenta con cubículos, proporcionandote acceso a las bibliotecas virtuales con las que la escuela cuenta. </p>
+                            <p> Aquí se encuentra la biblioteca, con su apartado para solicitud de libros al igual que su área común
+                                 en dónde puedes realizar tus tareas. Cuenta con cubículos, proporcionándote acceso a las bibliotecas virtuales con las que la escuela cuenta. </p>
                             
                         </div><!-- /.col-lg-4 -->
                         <div class="col-lg-4" style="text-align: center;">
                             <svg class="bd-placeholder-img rounded-circle" width="140" height="140"
                                 xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140"
                                 preserveAspectRatio="xMidYMid slice" focusable="false">
-                                <title>Placeholder</title>
-                                <rect width="100%" height="100%" fill="#777"></rect><text x="50%" y="50%" fill="#777"
-                                    dy=".3em">140x140</text>
+                                <rect width="100%" height="100%" fill="#777">
                             </svg>
 
                             <h2>Edificio X</h2>
-                            <p>Aquí se encuentra el edificio Administrativo</p>
+                            <p>Aquí se encuentran los departamentos de Gestión Tecnológica y Vinculación, Desarrollo Académico, Planeación y Jefatura. </p>
                             
                         </div><!-- /.col-lg-4 -->
                         <div class="col-lg-4" style="text-align: center;">
                             <svg class="bd-placeholder-img rounded-circle" width="140" height="140"
                                 xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140"
                                 preserveAspectRatio="xMidYMid slice" focusable="false">
-                                <title>Placeholder</title>
-                                <rect width="100%" height="100%" fill="#777"></rect><text x="50%" y="50%" fill="#777"
-                                    dy=".3em">140x140</text>
+                                <rect width="100%" height="100%" fill="#777">
                             </svg>
 
                             <h2>Edifico Y</h2>
-                            <p>Aquí se encuentra el edificio de Planeacion</p>
+                            <p>Aquí se encuentran los departamentos de Dirección, Subdirección y la Caja. Aquí puedes realizar todos los pagos correspondientes a los <a href="tramites.php">tramites</a>.  </p>
                             
                         </div><!-- /.col-lg-4 -->
                     </div><!-- /.row -->
