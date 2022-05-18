@@ -40,7 +40,7 @@
                         <a class="nav-link" href="../html/tramites.php">¿Qué es un Trámite?</a>
                     </li>
                     <li class="nav-item active">
-                        <a class="nav-link" href="#">¿Qué hay en los edificios del Tecnológico?</a>
+                        <a class="nav-link" href="../html/edificios.php">¿Qué hay en los edificios del Tecnológico?</a>
                     </li>
                 </ul>
             </div>
