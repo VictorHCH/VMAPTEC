@@ -51,7 +51,7 @@
                 <br><br>
                 <h2 id="fundamento">Fundamento de la actividad </h2>
                 <br>
-              c
+                c
             </div>
             <h3>Tutoria:</h3>
             <p>La tutoría es un programa que permite la mejora del proceso de aprendizaje por los estudiantes,
@@ -103,6 +103,17 @@
                 competencias del estudiante.</p>
             <h4>Evidencias para la evaluación y acreditación</h4>
             <p>Constancia de acreditación expedida por el Departamento encargado de la operación del programa.</p>
+            <br><br>
+            <div id="disqus_thread"></div>
+            <script>
+                (function () {
+                    var d = document,
+                        s = d.createElement('script');
+                    s.src = 'https://vmaptec.disqus.com/embed.js';
+                    s.setAttribute('data-timestamp', +new Date());
+                    (d.head || d.body).appendChild(s);
+                })();
+            </script>
         </div>
     </div>
 
