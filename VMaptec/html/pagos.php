@@ -58,34 +58,34 @@
                                 <TD>&nbsp;&nbsp;**CONSTANCIA DE ESTUDIOS</TD> <TD style="text-align: center;">$50.00</TD>
                             </TR>
                             <TR>
-                                <TD>&nbsp;&nbsp;**INSCRIPCION Y REINSCRIPCION SEMESTRAL NIVEL LICENCIATURA</TD> <TD style="text-align: center;">$2100.00</TD>
+                                <TD>&nbsp;&nbsp;**INSCRIPCIÓN Y REINSCRIPCIÓN SEMESTRAL NIVEL LICENCIATURA</TD> <TD style="text-align: center;">$2100.00</TD>
                             </TR>
                             <TR>
-                                <TD>&nbsp;&nbsp;**INSCRIPCION SEMESTRAL NIVEL POSGRADO</TD> <TD style="text-align: center;">$4400.00</TD>
+                                <TD>&nbsp;&nbsp;**INSCRIPCIÓN SEMESTRAL NIVEL POSGRADO</TD> <TD style="text-align: center;">$4400.00</TD>
                             </TR>
                             <TR>
-                                <TD>&nbsp;&nbsp;(1) *ASIGNATURA EDUCACION A DISTANCIA  </TD> <TD style="text-align: center;">$500.00</TD>
+                                <TD>&nbsp;&nbsp;(1) *ASIGNATURA EDUCACIÓN A DISTANCIA  </TD> <TD style="text-align: center;">$500.00</TD>
                             </TR>
                             <TR>
                                 <TD>&nbsp;&nbsp;(1) *ASIGNATURA EN PROGRAMA SEMIPRECENCIAL</TD> <TD style="text-align: center;">$500.00</TD>
                             </TR>
                             <TR>
-                                <TD>&nbsp;&nbsp;REPOSICION DE TARJETA DE ACCESO DE LOS EMPLEADOS AL ESTACIONAMIENTO</TD> <TD style="text-align: center;">$150.00</TD>
+                                <TD>&nbsp;&nbsp;REPOSICIÓN DE TARJETA DE ACCESO DE LOS EMPLEADOS AL ESTACIONAMIENTO</TD> <TD style="text-align: center;">$150.00</TD>
                             </TR>
                             <TR>
-                                <TD>&nbsp;&nbsp;PAGO PARA TRAMITE DE TITULO LICENCIATURA</TD> <TD style="text-align: center;">$1450.00</TD>
+                                <TD>&nbsp;&nbsp;PAGO PARA TRÁMITE DE TITULO LICENCIATURA</TD> <TD style="text-align: center;">$1450.00</TD>
                             </TR>
                             <TR>
-                                <TD>&nbsp;&nbsp;EXAMEN DE ADMISION A NIVEL LICENCIATURA</TD> <TD style="text-align: center;">$750.00</TD>
+                                <TD>&nbsp;&nbsp;EXAMEN DE ADMISIÓN A NIVEL LICENCIATURA</TD> <TD style="text-align: center;">$750.00</TD>
                             </TR>
                             <TR>
-                                <TD>&nbsp;&nbsp;PROCESO DE ADMISION A NIVEL POSGRADO</TD> <TD style="text-align: center;">$2200.00</TD>
+                                <TD>&nbsp;&nbsp;PROCESO DE ADMISIÓN A NIVEL POSGRADO</TD> <TD style="text-align: center;">$2200.00</TD>
                             </TR>
                             <TR>
                                 <TD>&nbsp;&nbsp;EXAMEN ESPECIAL O GLOBAL</TD> <TD style="text-align: center;">$1000.00</TD>
                             </TR>
                             <TR>
-                                <TD>&nbsp;&nbsp;HORARIO OFICIAL sellado(CARGA ACADEMICA)</TD> <TD style="text-align: center;">$30.00</TD>
+                                <TD>&nbsp;&nbsp;HORARIO OFICIAL sellado (CARGA ACADÉMICA)</TD> <TD style="text-align: center;">$30.00</TD>
                             </TR>
                             <TR>
                                 <TD>&nbsp;&nbsp;IMPRESIÓN A COLOR </TD> <TD style="text-align: center;">$7.00</TD>
@@ -97,7 +97,7 @@
                                 <TD>&nbsp;&nbsp;IMPRESIÓN DE KARDEX OFICIAL</TD> <TD style="text-align: center;">$80.00</TD>
                             </TR>
                             <TR>
-                                <TD>&nbsp;&nbsp;REPOSICION DE CREDENCIAL(ALUMNO)</TD> <TD style="text-align: center;">$100.00</TD>
+                                <TD>&nbsp;&nbsp;REPOSICIÓN DE CREDENCIAL (ALUMNO)</TD> <TD style="text-align: center;">$100.00</TD>
                             </TR>
                             <TR>
                                 <TD>&nbsp;&nbsp;CURSO DE INGLES</TD> <TD style="text-align: center;">$800.00</TD>
@@ -106,7 +106,7 @@
                                 <TD>&nbsp;&nbsp;EXAMEN DE INGLES</TD> <TD style="text-align: center;">$500.00</TD>
                             </TR>
                             <TR>
-                                <TD>&nbsp;&nbsp;EXAMEN DE INGLES DE COLOCACION Y/O LIBERACION</TD> <TD style="text-align: center;">$500.00</TD>
+                                <TD>&nbsp;&nbsp;EXAMEN DE INGLES DE COLOCACIÓN Y/O LIBERACIÓN</TD> <TD style="text-align: center;">$500.00</TD>
                             </TR>
                             <TR>
                                 <TD>&nbsp;&nbsp;SEGURO INSTITUCIONAL</TD> <TD style="text-align: center;">$250.00</TD>

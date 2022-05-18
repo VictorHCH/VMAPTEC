@@ -114,7 +114,7 @@
                     </div>
                 </div>
                 <br>
-                <p style="text-align: center;">Si quieres saber mas acerca del pago de los tramites <a href="pagos.php">Has Click Aqui</a>.</p>
+                <p style="text-align: center;">Si quieres saber mas acerca del pago de los tramites <a href="pagos.php">Has Click Aquí</a>.</p>
                 <br>
                 <div id="disqus_thread"></div>
                 <script>
