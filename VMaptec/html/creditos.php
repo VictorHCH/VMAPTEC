@@ -20,8 +20,8 @@
     <div class="container">
         <div class="jumbotron">
             <div class="container">
-                <h1 class="display-4">Guía de la Descripción de la Actividades Complementarias</h1>
-                <h1>¿Qué son los créditos complementarios?</h1>
+                
+                <h1 class="display-3"><b>¿Qué son los créditos?</b></h1>
                 <h3 id="exp">Actividades que realiza el alumno en beneficio de su formación integral con el objetivo de
                     complementar sus competencias profesionales.
                     Las actividades complementarias son propuestas por los departamentos involucrados en el comité
@@ -33,7 +33,7 @@
                     primeros semestres.Para cada actividad complementaria autorizada por el plantel no deberá tener más
                     de 2 créditos.</h3>
                 <br>
-                <h3 id="titulo-cre">Notas:</h1>
+                <h3>Notas:</h3>
                     <h3 id="exp">
                         <ul>
                             <li>La lengua extranjera no es considerada una actividad complementaria.</li>
@@ -51,7 +51,7 @@
                 <br><br>
                 <h2 id="fundamento">Fundamento de la actividad </h2>
                 <br>
-                c
+               
             </div>
             <h3>Tutoria:</h3>
             <p>La tutoría es un programa que permite la mejora del proceso de aprendizaje por los estudiantes,

@@ -35,12 +35,13 @@
         <div class="container">
             <div class="jumbotron">
                 <div class="container">
-                    <h1 class="display-3">Trámites Con Los Que Cuenta La Insitución</h1>
+                    <h1 class="display-3">Trámites Con Los Que Cuenta La Institución</h1>
                 </div>
-                <p style="text-align: center;">Es necesario que vayas a pagar al departamento de financieros. </p>
                 <br>
+                <p style="text-align: center;">Es necesario que vayas a pagar al departamento de financieros. </p>
                 <p style="text-align: center;">Debes tener a la mano, tu número de control y nombre para poder realizar los
                     trámites. </p>
+                <br>
                 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
                     <div class="col">
                         <div class="card shadow-sm">
@@ -52,7 +53,7 @@
                             </svg>
                             <div class="card-body">
                                 <p class="card-text">Documento oficial que te acredita como estudiante inscrito en el
-                                    Instituto Tecnologico de Parral.</p>
+                                    Instituto Tecnológico de Parral.</p>
                                 <div class="d-flex justify-content-between align-items-center">
                                 </div>
                             </div>
@@ -69,7 +70,7 @@
 
                             <div class="card-body">
                                 <p class="card-text">Documento oficial donde te muestra todas las asignaturas del Plan
-                                    de Estudios correspondiente y la calificacion por semestre.</p>
+                                    de Estudios correspondiente y la calificación por semestre.</p>
                                 <div class="d-flex justify-content-between align-items-center">
                                 </div>
                             </div>
@@ -105,7 +106,7 @@
 
                             <div class="card-body">
                                 <p class="card-text">Documento oficial donde te muestra todas las asignaturas del Plan
-                                    de Estudios correspondiente y la calificacion de semestres anteriores
+                                    de Estudios correspondiente y la calificación de semestres anteriores
                                     individualmente.</p>
                                 <div class="d-flex justify-content-between align-items-center">
                                 </div>
@@ -114,7 +115,7 @@
                     </div>
                 </div>
                 <br>
-                <p style="text-align: center;">Si quieres saber mas acerca del pago de los tramites <a href="pagos.php">Has Click Aquí</a>.</p>
+                <p style="text-align: center;">Si quieres saber más acerca del pago de los tramites. <a href="pagos.php">Has Click Aquí</a>.</p>
                 <br>
                 <div id="disqus_thread"></div>
                 <script>

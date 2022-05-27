@@ -44,8 +44,8 @@
                             <h2>Edificio A</h2>
                             <p>Aquí se encuentran los departamentos de Servicios escolares, Departamento de Servicios
                                 Generales, Titulación y Becas.
-                                Puedes realizar los tramites de solicitud de becas y su respectiva titulación, al igual
-                                que la solicitud y aprobación para ser acreedor de constancias. </p>
+                                Puedes realizar los trámites de solicitud de becas y su respectiva titulación, al igual
+                                que la solicitud y aprobación para ser acreedor de constancias.</p>
                         </div><!-- /.col-lg-4 -->
                         <div class="col-lg-4" style="text-align: center;">
                             <!-- <svg class="bd-placeholder-img img-thumbnail" width="200" height="200" xmlns="http://www.w3.org/2000/svg"
@@ -66,7 +66,7 @@
                             </svg> -->
                             <img src="../imagenes/edificiou.jpeg" width="100%" style="border-radius: 15px;">
                             <h2>Edificio U</h2>
-                            <p>Aquí se encuentra el edificio de Centro de Computo. Puedes pedir información acerca de tu
+                            <p>Aquí se encuentra el edificio de Centro de Cómputo. Puedes pedir información acerca de tu
                                 correo electrónico. Este correo te permite obtener software de paga completamente
                                 gratis. Aquí se distribuye internet a todo el Tec. </p>
                             <br>
@@ -105,7 +105,7 @@
                                 <rect width="100%" height="100%" fill="#777">
                             </svg> -->
                             <img src="../imagenes/edificioy.jpg" width="100%" style="border-radius: 15px;">
-                            <h2>Edifico Y</h2>
+                            <h2>Edificio Y</h2>
                             <p>Aquí se encuentran los departamentos de Dirección, Subdirección y la Caja. Aquí puedes
                                 realizar todos los pagos correspondientes a los <a href="tramites.php">tramites</a>.
                             </p>
